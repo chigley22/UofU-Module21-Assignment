@@ -57,6 +57,11 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Contributing
 
+## Mock-Up
+The following image shows a screen shot of the homepage of the book search application:
+
+![Book search Screenshot](./assets/booksearch.png)
+
 ## Tests
 
 ## Questions
